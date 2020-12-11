@@ -11,7 +11,7 @@
  <tileset firstgid="5069" source="rc3-mullana-neon-signs.tsx"/>
  <tileset firstgid="5325" source="spaceselection.tsx"/>
  <tileset firstgid="5725" source="mapUtilities.tsx"/>
- <tileset firstgid="5734" source="D:/c3tiles/spaceselection.tsx"/>
+ <tileset firstgid="5734" source="spaceselection.tsx"/>
  <layer id="13" name="start" width="46" height="34">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
