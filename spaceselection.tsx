@@ -185,6 +185,31 @@
    <frame tileid="285" duration="4000"/>
   </animation>
  </tile>
+ <tile id="235">
+  <properties>
+   <property name="openWebsite" value="https://space.bi/stadtrundfahrt"/>
+  </properties>
+ </tile>
+ <tile id="255">
+  <properties>
+   <property name="jitsiRoom" value="spacebi_wohnzimmer"/>
+  </properties>
+ </tile>
+ <tile id="256">
+  <properties>
+   <property name="jitsiRoom" value="spacebi_wc"/>
+  </properties>
+ </tile>
+ <tile id="257">
+  <properties>
+   <property name="jitsiRoom" value="spacebi_wk1"/>
+  </properties>
+ </tile>
+ <tile id="258">
+  <properties>
+   <property name="jitsiRoom" value="spacebi_wk2"/>
+  </properties>
+ </tile>
  <tile id="380">
   <animation>
    <frame tileid="200" duration="100"/>
