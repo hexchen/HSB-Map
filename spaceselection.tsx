@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="spaceselection" tilewidth="32" tileheight="32" tilecount="400" columns="20">
  <image source="spaceselection.png" width="640" height="640"/>
+ <tile id="99">
+  <animation>
+   <frame tileid="39" duration="150"/>
+   <frame tileid="59" duration="150"/>
+   <frame tileid="79" duration="150"/>
+  </animation>
+ </tile>
  <tile id="154">
   <animation>
    <frame tileid="151" duration="3000"/>
