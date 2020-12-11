@@ -3,7 +3,7 @@
  <image source="floortileset.png" width="256" height="256"/>
  <tile id="38">
   <properties>
-   <property name="collides" type="bool" value="true"/>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
 </tileset>
