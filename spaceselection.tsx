@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="spaceselection" tilewidth="32" tileheight="32" tilecount="400" columns="20">
  <image source="spaceselection.png" width="640" height="640"/>
+ <tile id="141">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="142">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="154">
+  <animation>
+   <frame tileid="151" duration="1000"/>
+   <frame tileid="152" duration="250"/>
+   <frame tileid="153" duration="2000"/>
+   <frame tileid="152" duration="250"/>
+   <frame tileid="151" duration="1000"/>
+  </animation>
+ </tile>
  <tile id="155">
   <animation>
    <frame tileid="91" duration="9999"/>
@@ -23,6 +42,25 @@
   <animation>
    <frame tileid="94" duration="9999"/>
    <frame tileid="83" duration="500"/>
+  </animation>
+ </tile>
+ <tile id="161">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="162">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="174">
+  <animation>
+   <frame tileid="171" duration="1000"/>
+   <frame tileid="172" duration="250"/>
+   <frame tileid="173" duration="2000"/>
+   <frame tileid="172" duration="250"/>
+   <frame tileid="171" duration="1000"/>
   </animation>
  </tile>
  <tile id="175">
@@ -48,6 +86,16 @@
    <frame tileid="114" duration="9999"/>
    <frame tileid="103" duration="500"/>
   </animation>
+ </tile>
+ <tile id="181">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="182">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
  </tile>
  <tile id="195">
   <animation>
