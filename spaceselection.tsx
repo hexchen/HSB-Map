@@ -103,16 +103,6 @@
    <frame tileid="380" duration="100"/>
   </animation>
  </tile>
- <tile id="215">
-  <properties>
-   <property name="playAudio" value="http://streams.radiobob.de/bob-live/mp3-128/streams.radiobob.de/"/>
-  </properties>
- </tile>
- <tile id="217">
-  <properties>
-   <property name="playAudio" value="http://streams.radiobob.de/bob-alternative/mp3-128/streams.radiobob.de/"/>
-  </properties>
- </tile>
  <tile id="222">
   <animation>
    <frame tileid="201" duration="100"/>
