@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="spaceselection" tilewidth="32" tileheight="32" tilecount="400" columns="20">
  <image source="spaceselection.png" width="640" height="640"/>
+ <tile id="154">
+  <animation>
+   <frame tileid="151" duration="3000"/>
+   <frame tileid="152" duration="500"/>
+   <frame tileid="153" duration="6000"/>
+   <frame tileid="152" duration="500"/>
+  </animation>
+ </tile>
  <tile id="155">
   <animation>
    <frame tileid="91" duration="9999"/>
@@ -23,6 +31,14 @@
   <animation>
    <frame tileid="94" duration="9999"/>
    <frame tileid="83" duration="500"/>
+  </animation>
+ </tile>
+ <tile id="174">
+  <animation>
+   <frame tileid="171" duration="3000"/>
+   <frame tileid="172" duration="500"/>
+   <frame tileid="173" duration="6000"/>
+   <frame tileid="172" duration="500"/>
   </animation>
  </tile>
  <tile id="175">
@@ -87,6 +103,16 @@
    <frame tileid="380" duration="100"/>
   </animation>
  </tile>
+ <tile id="215">
+  <properties>
+   <property name="playAudio" value="http://streams.radiobob.de/bob-live/mp3-128/streams.radiobob.de/play.m3u"/>
+  </properties>
+ </tile>
+ <tile id="217">
+  <properties>
+   <property name="playAudio" value="http://streams.radiobob.de/bob-alternative/mp3-128/streams.radiobob.de/play.m3u"/>
+  </properties>
+ </tile>
  <tile id="222">
   <animation>
    <frame tileid="201" duration="100"/>
@@ -145,10 +171,8 @@
    <frame tileid="269" duration="100"/>
    <frame tileid="249" duration="600"/>
    <frame tileid="269" duration="300"/>
-   <frame tileid="249" duration="2200"/>
+   <frame tileid="249" duration="3200"/>
    <frame tileid="269" duration="200"/>
-   <frame tileid="249" duration="600"/>
-   <frame tileid="269" duration="400"/>
   </animation>
  </tile>
  <tile id="230">
