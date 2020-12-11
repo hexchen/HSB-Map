@@ -859,7 +859,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"http:\/\/streams.radiobob.de\/bob-live\/mp3-128\/streams.radiobob.de\/play.m3u"
+                         "value":"http:\/\/streams.radiobob.de\/bob-live\/mp3-128\/streams.radiobob.de\/"
                         }]
                 }, 
                 {
@@ -868,7 +868,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"http:\/\/streams.radiobob.de\/bob-alternative\/mp3-128\/streams.radiobob.de\/play.m3u"
+                         "value":"http:\/\/streams.radiobob.de\/bob-alternative\/mp3-128\/streams.radiobob.de\/"
                         }]
                 }, 
                 {
