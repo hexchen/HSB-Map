@@ -3,6 +3,11 @@
  <image source="mapUtilities.png" width="288" height="32"/>
  <tile id="0">
   <properties>
+   <property name="collides" type="bool" value="false"/>
+  </properties>
+ </tile>
+ <tile id="6">
+  <properties>
    <property name="collides" type="bool" value="true"/>
   </properties>
  </tile>
