@@ -11,9 +11,6 @@
  <tileset firstgid="5069" source="rc3-mullana-neon-signs.tsx"/>
  <tileset firstgid="5325" source="spaceselection.tsx"/>
  <tileset firstgid="5725" source="mapUtilities.tsx"/>
- <imagelayer id="3" name="Bildebene 1" visible="0">
-  <image source="../../../../Bjoern/Desktop/grundriss hsbbig.png"/>
- </imagelayer>
  <layer id="13" name="start" width="100" height="100">
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
