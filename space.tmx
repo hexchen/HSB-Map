@@ -14,19 +14,19 @@
  <tileset firstgid="5734" source="merryrc3-poster-64.tsx"/>
  <tileset firstgid="5738" source="hsb-fliese.tsx"/>
  <tileset firstgid="5802" name="BlueTree" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="../../Schreibtisch/BlueTree.png" trans="ffffff" width="32" height="32"/>
+  <image source="BlueTree.png" trans="ffffff" width="32" height="32"/>
  </tileset>
  <tileset firstgid="5803" name="RedTree" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="../../Schreibtisch/RedTree.png" trans="ffffff" width="32" height="32"/>
+  <image source="RedTree.png" trans="ffffff" width="32" height="32"/>
  </tileset>
  <tileset firstgid="5804" name="PinkTree" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="../../Schreibtisch/PinkTree.png" trans="ffffff" width="32" height="32"/>
+  <image source="PinkTree.png" trans="ffffff" width="32" height="32"/>
  </tileset>
  <tileset firstgid="5805" name="VioletTree" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="../../Schreibtisch/VioletTree.png" trans="ffffff" width="32" height="32"/>
+  <image source="VioletTree.png" trans="ffffff" width="32" height="32"/>
  </tileset>
  <tileset firstgid="5806" name="TurquiseTree" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="../../Schreibtisch/TurquiseTree.png" trans="ffffff" width="32" height="32"/>
+  <image source="TurquiseTree.png" trans="ffffff" width="32" height="32"/>
  </tileset>
  <layer id="13" name="start" width="46" height="37">
   <data encoding="csv">
