@@ -146,7 +146,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/188.68.53.73\/gu29wbei"
+                 "value":"https:\/\/example.com"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -200,7 +200,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/188.68.53.73\/pu92gbupi"
+                 "value":"http:\/\/example.com"
                 }],
          "type":"tilelayer",
          "visible":true,

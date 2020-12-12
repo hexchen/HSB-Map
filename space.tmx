@@ -443,7 +443,7 @@
  </layer>
  <layer id="32" name="RedTreeURL" width="46" height="37">
   <properties>
-   <property name="openWebsite" value="http://188.68.53.73/gu29wbei"/>
+   <property name="openWebsite" value="https://example.com"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -575,7 +575,7 @@
  </layer>
  <layer id="35" name="TurquiseTreeURL" width="46" height="37">
   <properties>
-   <property name="openWebsite" value="http://188.68.53.73/pu92gbupi"/>
+   <property name="openWebsite" value="http://example.com"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
