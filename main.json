@@ -1483,7 +1483,7 @@
         {
          "columns":1,
          "firstgid":5802,
-         "image":"..\/..\/Schreibtisch\/BlueTree.png",
+         "image":"BlueTree.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1497,7 +1497,7 @@
         {
          "columns":1,
          "firstgid":5803,
-         "image":"..\/..\/Schreibtisch\/RedTree.png",
+         "image":"RedTree.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1511,7 +1511,7 @@
         {
          "columns":1,
          "firstgid":5804,
-         "image":"..\/..\/Schreibtisch\/PinkTree.png",
+         "image":"PinkTree.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1525,7 +1525,7 @@
         {
          "columns":1,
          "firstgid":5805,
-         "image":"..\/..\/Schreibtisch\/VioletTree.png",
+         "image":"VioletTree.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1539,7 +1539,7 @@
         {
          "columns":1,
          "firstgid":5806,
-         "image":"..\/..\/Schreibtisch\/TurquiseTree.png",
+         "image":"TurquiseTree.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
