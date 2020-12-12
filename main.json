@@ -128,7 +128,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/188.68.53.73:7777\/iugw4b40"
+                 "value":"http:\/\/188.68.53.73\/iugw4b40"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -146,7 +146,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/188.68.53.73:7777\/gu29wbei"
+                 "value":"http:\/\/188.68.53.73\/gu29wbei"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -164,7 +164,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/188.68.53.73:7777\/r3iughhu"
+                 "value":"http:\/\/188.68.53.73\/r3iughhu"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -182,7 +182,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/188.68.53.73:7777\/iewbouzg"
+                 "value":"http:\/\/188.68.53.73\/iewbouzg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -200,7 +200,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/188.68.53.73:7777\/pu92gbupi"
+                 "value":"http:\/\/188.68.53.73\/pu92gbupi"
                 }],
          "type":"tilelayer",
          "visible":true,

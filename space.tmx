@@ -399,7 +399,7 @@
  </layer>
  <layer id="31" name="BlueTreeURL" width="46" height="37">
   <properties>
-   <property name="openWebsite" value="http://188.68.53.73:7777/iugw4b40"/>
+   <property name="openWebsite" value="http://188.68.53.73/iugw4b40"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -443,7 +443,7 @@
  </layer>
  <layer id="32" name="RedTreeURL" width="46" height="37">
   <properties>
-   <property name="openWebsite" value="http://188.68.53.73:7777/gu29wbei"/>
+   <property name="openWebsite" value="http://188.68.53.73/gu29wbei"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -487,7 +487,7 @@
  </layer>
  <layer id="33" name="PinkTreeURL" width="46" height="37">
   <properties>
-   <property name="openWebsite" value="http://188.68.53.73:7777/r3iughhu"/>
+   <property name="openWebsite" value="http://188.68.53.73/r3iughhu"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -531,7 +531,7 @@
  </layer>
  <layer id="34" name="VioletTreeURL" width="46" height="37">
   <properties>
-   <property name="openWebsite" value="http://188.68.53.73:7777/iewbouzg"/>
+   <property name="openWebsite" value="http://188.68.53.73/iewbouzg"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -575,7 +575,7 @@
  </layer>
  <layer id="35" name="TurquiseTreeURL" width="46" height="37">
   <properties>
-   <property name="openWebsite" value="http://188.68.53.73:7777/pu92gbupi"/>
+   <property name="openWebsite" value="http://188.68.53.73/pu92gbupi"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
