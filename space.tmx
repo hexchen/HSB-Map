@@ -964,7 +964,7 @@
  </layer>
  <layer id="36" name="kaffeeLayer" width="46" height="37" opacity="0">
   <properties>
-   <property name="loopAudio" value="http://rc3.space.bi/sounds/Eskalation_an_der_Kaffeemaschine.mp3"/>
+   <property name="loopAudio" value="https://rc3.space.bi/sounds/Eskalation_an_der_Kaffeemaschine.mp3"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

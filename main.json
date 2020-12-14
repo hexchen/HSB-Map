@@ -355,7 +355,7 @@
                 {
                  "name":"loopAudio",
                  "type":"string",
-                 "value":"http:\/\/rc3.space.bi\/sounds\/Eskalation_an_der_Kaffeemaschine.mp3"
+                 "value":"https:\/\/rc3.space.bi\/sounds\/Eskalation_an_der_Kaffeemaschine.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
