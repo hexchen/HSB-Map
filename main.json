@@ -353,7 +353,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"loopAudio",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/rc3.space.bi\/sounds\/Eskalation_an_der_Kaffeemaschine.mp3"
                 }],
