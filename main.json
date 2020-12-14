@@ -353,9 +353,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"loopAudio",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/m_9QcLHzEUE"
+                 "value":"http:\/\/rc3.space.bi\/sounds\/Eskalation_an_der_Kaffeemaschine.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
