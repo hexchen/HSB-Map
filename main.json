@@ -350,12 +350,12 @@
          "height":37,
          "id":36,
          "name":"kaffeeLayer",
-         "opacity":0,
+         "opacity":0.52,
          "properties":[
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/rc3.space.bi\/sounds\/Eskalation_an_der_Kaffeemaschine.mp3"
+                 "value":"http:\/\/rc3.space.bi\/sounds\/Eskalation_an_der_Kaffeemaschine.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
