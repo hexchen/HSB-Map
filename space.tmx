@@ -730,7 +730,7 @@
  </layer>
  <layer id="38" name="exitLayer" width="46" height="37">
   <properties>
-   <property name="exitSceneUrl" value="https://lobby.maps.at.rc3.world//maps/erfas-spaces-north.json#start_space-bi"/>
+   <property name="exitUrl" value="{&lt;lobby&gt;/maps/erfas-space-north.json#start_space-bi}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
