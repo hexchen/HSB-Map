@@ -242,7 +242,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":""
+                 "value":"{<lobby>\/erfas-spaces-north.json#start_space-bi}"
                 }],
          "type":"tilelayer",
          "visible":true,
