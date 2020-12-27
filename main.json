@@ -242,7 +242,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_space-bi}"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/\/maps\/erfas-spaces-north.json#start_space-bi"
                 }],
          "type":"tilelayer",
          "visible":true,
