@@ -242,7 +242,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_sensor.community}"
+                 "value":"{<lobby>\/erfas-spaces-north.json#start_space-bi}"
                 }],
          "type":"tilelayer",
          "visible":true,
