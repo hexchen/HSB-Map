@@ -774,7 +774,7 @@
  </layer>
  <layer id="41" name="timeMascheenLayer" width="46" height="37">
   <properties>
-   <property name="exitSceneUrl" value="TimeMascheen/tm.json#timeMascheenLayer"/>
+   <property name="exitUrl" value="TimeMascheen/tm.json#timeMascheenLayer"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
