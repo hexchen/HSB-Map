@@ -377,7 +377,7 @@
  </layer>
  <layer id="19" name="exitLayer" width="51" height="69">
   <properties>
-   <property name="exitUrl" value="{&lt;lobby&gt;/erfas-spaces-north.json#start_space-bi}"/>
+   <property name="exitUrl" value="{&lt;lobby&gt;/erfas-spaces-north.json#start_sensor.community}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

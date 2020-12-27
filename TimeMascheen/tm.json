@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_space-bi}"
+                 "value":"{<lobby>\/erfas-spaces-north.json#start_sensor.community}"
                 }],
          "type":"tilelayer",
          "visible":true,
