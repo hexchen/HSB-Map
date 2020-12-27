@@ -80,7 +80,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https\/\/rc3.space.bi\/gu29wbei"
+                 "value":"https:\/\/rc3.space.bi\/gu29wbei"
                 }],
          "type":"tilelayer",
          "visible":true,
