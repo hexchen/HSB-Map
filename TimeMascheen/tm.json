@@ -168,7 +168,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"{<lobby>\/maps\/erfas-space-north.json#start_space-bi}"
                 }],
@@ -210,7 +210,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"..\/main.json#timeMascheenLayer"
                 }],

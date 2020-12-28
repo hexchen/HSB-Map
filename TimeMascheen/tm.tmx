@@ -757,7 +757,7 @@
  </layer>
  <layer id="19" name="exitLayer" width="51" height="69">
   <properties>
-   <property name="exitUrl" value="{&lt;lobby&gt;/maps/erfas-space-north.json#start_space-bi}"/>
+   <property name="exitSceneUrl" value="{&lt;lobby&gt;/maps/erfas-space-north.json#start_space-bi}"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -979,7 +979,7 @@
  </layer>
  <layer id="18" name="timeMascheenLayer" width="51" height="69">
   <properties>
-   <property name="exitUrl" value="../main.json#timeMascheenLayer"/>
+   <property name="exitSceneUrl" value="../main.json#timeMascheenLayer"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
