@@ -168,9 +168,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/erfas-space-north.json#start_space-bi}"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/erfas-spaces-north.json#start_space-bi"
                 }],
          "type":"tilelayer",
          "visible":true,
