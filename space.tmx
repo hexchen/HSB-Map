@@ -1465,7 +1465,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="47" name="dialToneLayer" width="46" height="37">
+ <layer id="47" name="dialToneLayer" width="46" height="37" opacity="0">
   <properties>
    <property name="playAudio" value="sounds/dial-tone.mp3"/>
   </properties>
