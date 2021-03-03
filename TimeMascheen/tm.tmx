@@ -756,6 +756,9 @@
 </data>
  </layer>
  <layer id="19" name="exitLayer" width="51" height="69">
+  <properties>
+   <property name="exitSceneUrl" value="/_/global/c0c0bird.github.io/chaos-world/main.json#start_hamburg"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
